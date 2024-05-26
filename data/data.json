@@ -1,0 +1,37 @@
+{
+  "overviewToday": [
+    {
+      "type": "Page Views",
+      "platform": "facebook",
+      "count": 87,
+      "change": "+3%"
+    },
+    { "type": "Likes", "platform": "facebook", "count": 52, "change": "-2%" },
+    {
+      "type": "Likes",
+      "platform": "instagram",
+      "count": 5462,
+      "change": "+2257%"
+    },
+    {
+      "type": "Profile Views",
+      "platform": "instagram",
+      "count": 52000,
+      "change": "+1375%"
+    },
+    {
+      "type": "Retweets",
+      "platform": "twitter",
+      "count": 117,
+      "change": "+303%"
+    },
+    { "type": "Likes", "platform": "twitter", "count": 507, "change": "+553%" },
+    { "type": "Likes", "platform": "youtube", "count": 107, "change": "-19%" },
+    {
+      "type": "Total Views",
+      "platform": "youtube",
+      "count": 1407,
+      "change": "-12%"
+    }
+  ]
+}
